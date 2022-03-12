@@ -4,3 +4,4 @@
 - 🌱 I’m currently learning software engineering.
 - 💞️ I’m looking to collaborate on ALX projects. 
 - 📫 How to reach me in github carolemma.
+alx readme
